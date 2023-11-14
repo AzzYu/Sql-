@@ -55,8 +55,8 @@ tables表：存放了所有的库名以及对应的表名
                 table_schema    table_name
 
 columns：库名     =>       表名      =>    字段名
-         ||              ||              ||
-    table_schema  table_name    column_name
+         ||                 ||              ||
+    table_schema        table_name    column_name
 ```
 查找所有的库名
 ```texttile
