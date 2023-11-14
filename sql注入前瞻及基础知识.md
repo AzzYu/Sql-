@@ -93,7 +93,9 @@ where table_schema="security" and table_name="users";
 - ascii(a)：把字符转换成ascii码
 - updatexml():用于报错注入
 - extractvalue():用于报错注入
+  
 **注释符号**
+  
 - --空格 空格可以使用+代替 （url编码%23表示注释）
 - /**/
 - `/*!*/` 内联注释
